@@ -46,6 +46,6 @@
 
 
 	<build>
-		<finalName>HelloWorld</finalName>
+		<finalName>DemoHotels</finalName>
 	</build>
 </project>
