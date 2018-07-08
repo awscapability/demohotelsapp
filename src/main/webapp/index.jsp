@@ -38,7 +38,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<div class="agile-top-header">
 	<div class="banner-agile-top">
 		<div class="number">
-			<h3><i class="fa fa-phone" aria-hidden="true"></i> +91 080 987 6541</h3>
+			<h3><i class="fa fa-phone" aria-hidden="true"></i> +91 999-999-9999</h3>
 		</div>
 				<div class="top-icons">
 				<ul>
@@ -178,7 +178,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 							<option value=" ">None</option>
 							<option value="category1">Single Room</option>
 							<option value="category2">Double Room</option>
-							<option value="category3">Suit Room</option>
+							<option value="category3">Suite</option>
 							
 						</select>
 					</div>
