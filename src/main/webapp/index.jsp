@@ -51,7 +51,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<div class="clearfix"></div>
 	</div>
 		<div class="logo">
-			<h1><a href="index.html">Dream<span>Hotel</span></a></h1>
+			<h1><a href="index.jsp">Dream<span>Hotel</span></a></h1>
 		</div>
 		<!-- navigation -->
 		<div class="top-left">
@@ -70,12 +70,12 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 						 <nav class="linkEffects linkHoverEffect_2">
 							<ul>
-								<li><a href="index.html" data-link-alt="Home" class="active"><span>Home</span></a></li> 
+								<li><a href="index.jsp" data-link-alt="Home" class="active"><span>Home</span></a></li> 
 								<li><a href="#about" data-link-alt="about" class="scroll"><span>About</span></a></li> 
 								<li><a href="#services" data-link-alt="services" class="scroll"><span>Services</span></a></li> 
 								<li><a href="#gallery" data-link-alt="gallery" class="scroll"><span>Gallery</span></a></li> 
 								<li><a href="#testimonials" data-link-alt="testimonials" class="scroll"><span>Testimonials</span></a></li> 
-								<li><a href="#contact" data-link-alt="Contact Us" class="scroll"><span>Contact Us</span></a></li> 
+								<!-- <li><a href="#contact" data-link-alt="Contact Us" class="scroll"><span>Contact Us</span></a></li>  -->
 							</ul>
 						</nav>
 						
@@ -101,8 +101,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 				<ul class="rslides" id="slider">
 					<li>
 						<div class="slider-info">
-							<h3>Lorem ipsum</h3>
-						    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lectus orci, volutpat at diam et, tincidunt malesuada turpis. In viverra diam turpis, nec porttitor turpis feugiat in. Pellentesque.</p>
+							<h3>Crowne Plaza Hong Kong</h3>
+						    <p>Discover hidden attractions and underrated gems. Go on more unique family trips with these inspiring itineraries.</p>
 							<div class="readmore-w3">
 								<a class="readmore" href="#" data-toggle="modal" data-target="#myModal1">Read More</a>
 							</div>
@@ -110,8 +110,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</li>
 					<li>
 						<div class="slider-info1">
-							<h3>adiping elitrs</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lectus orci, volutpat at diam et, tincidunt malesuada turpis. In viverra diam turpis, nec porttitor turpis feugiat in. Pellentesque.</p>
+							<h3>Staybridge Suites Las Vegas</h3>
+							<p>Las Vegas is the place to be, whether you're a high-stakes card player, a bachelorette party attendee, a weekend warrior or just an entertainment enthusiast.</p>
 							<div class="readmore-w3">
 								<a class="readmore" href="#" data-toggle="modal" data-target="#myModal1">Read More</a>
 							</div>
@@ -119,8 +119,8 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 					</li>
 					<li>
 						<div class="slider-info2">
-							<h3>incidit utabr</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean lectus orci, volutpat at diam et, tincidunt malesuada turpis. In viverra diam turpis, nec porttitor turpis feugiat in. Pellentesque.</p>
+							<h3>Holiday Inn Express - Alcobendas</h3>
+							<p>Madrid, the Spanish capital since the 16th century, is a city that embraces its glorious past even as it celebrates its promising future as one of Europe's crown jewels. The home of Emperor Carlos V, Madrid was the seat of power of one of the largest global empires in history, and remnants of its majesty remain throughout the city..</p>
 							<div class="readmore-w3">
 								<a class="readmore" href="#" data-toggle="modal" data-target="#myModal1">Read More</a>
 							</div>
@@ -467,28 +467,28 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<div id="review" class="jarallax reviews agile-1" >
 				<div class="w3-agile-test-monials" id="testimonials">
 					<div class="client-review-head">
-						<h3>Our customers Says</h3>
+						<h3>Our Customers Say</h3>
 						<div class="sreen-gallery-cursual">
 						       <div id="owl-demo" class="owl-carousel">
 					                 <div class="item-owl">
 					                		<div class="test-review wow fadeInUp animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-											   <p><img src="resources/images/left-quotes.png" alt=""> Polite sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco<img src="resources/images/right-quotes.png" alt=""></p>
+											   <p><img src="resources/images/left-quotes.png" alt=""> Will stay again for sure. will recommend to friends and others to stay for sure. The IHG program is excellent. Working great for me.<img src="resources/images/right-quotes.png" alt=""></p>
 						                	  <img src="resources/images/test2.jpg" class="img-responsive" alt=""/>
-											  <h5>Henry</h5>
+											  <h5>Rebecca</h5>
 					                	    </div>
 					                </div>
 					                 <div class="item-owl">
 					                	<div class="test-review wow fadeInUp animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-										 <p> <img src="resources/images/left-quotes.png" alt="">Polite sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco<img src="resources/images/right-quotes.png" alt=""></p>
+										 <p> <img src="resources/images/left-quotes.png" alt=""> Overall experience of staying there. Convenient location and free shuttle bus from ChungWan metro station. Extremely friendly staff made my stay greater experience.<img src="resources/images/right-quotes.png" alt=""></p>
 						                	<img src="resources/images/test1.jpg" class="img-responsive" alt=""/>
 											 <h5>Smith</h5>
 					                	</div>
 					                </div>
 					                 <div class="item-owl">
 					                	<div class="test-review wow fadeInUp animated animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: fadeInUp;">
-										     <p><img src="resources/images/left-quotes.png" alt=""> Polite sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco <img src="resources/images/right-quotes.png" alt=""></p>
+										     <p><img src="resources/images/left-quotes.png" alt=""> An excellent place to stay and a true value. Many decent restaurants nearby. A quiet and well-appointed Holiday Inn Express. These staff could not have been more pleasant and helpful.<img src="resources/images/right-quotes.png" alt=""></p>
 						                	<img src="resources/images/test3.jpg" class="img-responsive" alt=""/>
-											 <h5>Steave</h5>
+											 <h5>Elina</h5>
 					                	</div>
 					                </div>
 				              </div>
